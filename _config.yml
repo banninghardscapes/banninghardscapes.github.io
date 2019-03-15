@@ -1,0 +1,14 @@
+# Modified - Calvin Banning - Mar 6
+
+# Site settings
+title:
+email: banninghardscapes@gmail.com
+phone: 302-395-9491
+
+description: > # this means to ignore newlines until "baseurl:"
+
+baseurl: "/bh-demo-site/" # the subpath of your site, e.g. /blog/
+url: "https://banninghardscapes.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
